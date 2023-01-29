@@ -1,1 +1,1 @@
-bootstrap.properties
+xtransferLegalEnable
